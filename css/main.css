@@ -42,10 +42,10 @@ body {
   position: relative;
 }
 
-.robot-head-left {
-  left: 50%;
+.robot-head-right {
+  right: -75%;
 }
 
-.robot-head-right {
-  right: 50%;
+.robot-head-left {
+  left: 85.5%;
 }
