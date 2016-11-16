@@ -41,3 +41,11 @@ body {
   width: 125px;
   position: relative;
 }
+
+.robot-head-right {
+  right: 50%
+}
+
+.robot-head-left {
+  left: 50%;
+}
