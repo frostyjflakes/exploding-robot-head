@@ -17,6 +17,7 @@ body {
 .banner {
   background-color: #2b3851;
   position: absolute;
+  position: relative;
 }
 
 .robot {
@@ -54,9 +55,9 @@ body {
 }
 
 .robot-head-right:hover {
-  left: -34.25%;
+  left: 44.25%;
 }
 
 .robot-head-left:hover {
-  right: -45.43%;
+  right: 55.43%;
 }
