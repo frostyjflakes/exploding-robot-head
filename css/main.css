@@ -41,7 +41,7 @@ body {
 .robot-head-right,
 .robot-head-left {
   width: 125px;
-  top: 0%;
+  bottom: 31%;
 }
 
 .robot-head-right {
