@@ -11,53 +11,44 @@ html {
 body {
   margin: 0;
   min-width: 320px;
-  position: relative;
 }
 
 .banner {
   background-color: #2b3851;
-  position: absolute;
-  position: relative;
 }
 
 .robot {
   width: 320px;
-  position: relative;
+  position: absolute;
 }
 
 .robot-body {
   width: 320px;
-  position: relative;
-  top: 184px;
-
 }
 
 .robot-brain {
   width: 46px;
-  position: relative;
-  bottom: 119px;
-  left: 137px;
+  position: absolute;
 }
 
 .robot-head-right,
 .robot-head-left {
   width: 125px;
   position: relative;
-  bottom: 46px;
 }
 
 .robot-head-right {
-  left: 34.25%;
+  position: absolute;
 }
 
 .robot-head-left {
-  right: 45.43%;
+  position: absolute;
 }
 
 .robot-head-right:hover {
-  left: 44.25%;
+
 }
 
 .robot-head-left:hover {
-  right: 55.43%;
+
 }
