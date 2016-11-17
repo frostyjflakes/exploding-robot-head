@@ -16,12 +16,13 @@ body {
 .banner {
   background-color: #2b3851;
   position: relative;
-  height: 185px;
+  height: 231px;
 }
 
 .robot {
   width: 320px;
   position: absolute;
+  top: 20%;
   left: 50%;
   transform: translateX(-50%);
 }
