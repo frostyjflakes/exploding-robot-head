@@ -55,6 +55,7 @@ body {
 }
 
 .robot:hover > .robot-brain {
+  top: -2em;
 }
 
 .robot:hover > .robot-head-right {
